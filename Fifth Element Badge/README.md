@@ -19,21 +19,17 @@ You will need the following to assemble the element stones:
 Here's a video that shows how to assemble the stones:
 https://youtu.be/dvJu6TR9gxQ
 
-The resistor packs are color coded:
-No Color - 10
-Green - 51
-Blue - 2k
-Pink - 3.9k
-Orange - 6.2k
-Yellow - 8.2k
+The resistor packs are color coded and each resistor has a number on it:
 
-If you mix up the resistors after you've removed them from the packages, you can identify them by the numbers printed on them:
-10 - 100
-51 - 510
-2k - 202
-3.9k - 3901
-6.2k - 622
-8.2k - 822
+| Color | Resistor Value | Number on Resistor |
+| --- | :---: | :---: |
+| No Color | 10 | 100 |
+| Green | 51 | 510 |
+| Blue | 2k | 202 |
+| Pink | 3.9k | 3901 |
+| Orange | 6.2k | 622 |
+| Yellow | 8.2k | 822 |
+
 
 The LEDs have colored stickers on them for Red, Yellow, Green, Blue.
 

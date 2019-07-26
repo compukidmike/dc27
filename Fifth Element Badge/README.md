@@ -21,14 +21,14 @@ https://youtu.be/dvJu6TR9gxQ
 
 The resistor packs are color coded and each resistor has a number on it:
 
-| Color | Resistor Value | Number on Resistor |
-| --- | :---: | :---: |
-| No Color | 10 | 100 |
-| Green | 51 | 510 |
-| Blue | 2k | 202 |
-| Pink | 3.9k | 3901 |
-| Orange | 6.2k | 622 |
-| Yellow | 8.2k | 822 |
+| Color | Resistor Value | Number on Resistor | Quantity |
+| --- | :---: | :---: | :---: |
+| No Color | 10 | 100 | 1 |
+| Green | 51 | 510 | 3 |
+| Blue | 2k | 202 | 2 |
+| Pink | 3.9k | 3901 | 2 |
+| Orange | 6.2k | 622 | 2 |
+| Yellow | 8.2k | 822 | 2 |
 
 
 The LEDs have colored stickers on them for Red, Yellow, Green, Blue.

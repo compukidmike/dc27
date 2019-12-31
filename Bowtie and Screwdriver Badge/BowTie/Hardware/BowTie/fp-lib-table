@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name BowTie)(type KiCad)(uri ${KIPRJMOD})(options "")(descr ""))
+  (lib (name 2032BatteryHolderSMD-Linx-BAT-HLD-001)(type KiCad)(uri C:/Users/compukidmike/Dropbox/kicad/GoonBoxBadge/2032BatteryHolderSMD-Linx-BAT-HLD-001.pretty)(options "")(descr ""))
+)

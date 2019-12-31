@@ -1,5 +1,3 @@
-# All code and design files for the Fifth Element badge will be here after Defcon 27
-
 # Badge Usage
 The badge has 2 modes: Bling and Movie. Change modes by pressing the mode button on the back.
 Bling mode simply flashes the LEDs.
@@ -33,3 +31,6 @@ The resistor packs are color coded and each resistor has a number on it:
 
 The LEDs have colored stickers on them for Red, Yellow, Green, Blue.
 
+
+# Badges Available
+We had some left after Defcon, so if you're interested in getting a Fifth Element badge, we have some available at https://www.tindie.com/products/compukidmike/fifth-element-stones-badge-from-defcon-27/

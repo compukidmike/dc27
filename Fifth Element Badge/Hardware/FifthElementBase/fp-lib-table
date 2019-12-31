@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name C&KSlideSwitches)(type KiCad)(uri C:/Users/compukidmike/Dropbox/kicad/libraries/C&KSlideSwitches.pretty)(options "")(descr ""))
+  (lib (name Battery-WireConn)(type KiCad)(uri C:/Users/compukidmike/Dropbox/kicad/libraries/Battery-WireConn.pretty)(options "")(descr ""))
+)
